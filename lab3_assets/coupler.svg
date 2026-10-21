@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="340" viewBox="0 0 980 340">
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#315f85"/></marker></defs>
+<rect width="980" height="340" rx="18" fill="#f7fafc"/>
+<text x="490" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#18344d">Ideal reciprocal 2×2 coupler compact model</text>
+<text x="48" y="126" font-family="Arial,sans-serif" font-size="18" fill="#18344d">a₁</text>
+<text x="48" y="225" font-family="Arial,sans-serif" font-size="18" fill="#18344d">a₂</text>
+<line x1="82" y1="120" x2="280" y2="120" stroke="#315f85" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="82" y1="219" x2="280" y2="219" stroke="#315f85" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="300" y="78" width="390" height="184" rx="14" fill="#e7f0f7" stroke="#7b9db7" stroke-width="2"/>
+<text x="495" y="112" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#18344d">Field-amplitude relation</text>
+<text x="495" y="157" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#18344d">[ b₁ ]   [ √(1−K)   −j√K ] [ a₁ ]</text>
+<text x="495" y="195" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#18344d">[ b₂ ] = [ −j√K     √(1−K) ] [ a₂ ]</text>
+<text x="495" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#425b70">K: cross-coupled power fraction; −j: cross-path phase shift</text>
+<line x1="710" y1="120" x2="884" y2="120" stroke="#315f85" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="710" y1="219" x2="884" y2="219" stroke="#315f85" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="900" y="126" font-family="Arial,sans-serif" font-size="18" fill="#18344d">b₁</text>
+<text x="900" y="225" font-family="Arial,sans-serif" font-size="18" fill="#18344d">b₂</text>
+<text x="490" y="309" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#425b70">For unit input at a₁ only: |b₁|² = 1−K and |b₂|² = K</text>
+</svg>
